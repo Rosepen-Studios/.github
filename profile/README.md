@@ -51,6 +51,6 @@ Our open source projects are released under various licenses. Please check indiv
 
 **Made with ❤️ by Rosepen Studios**
 
-*Building games and open source solutions that make a difference*
+*For humans, by humans*
 
 </div>
