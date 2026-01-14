@@ -1,33 +1,17 @@
 # 🎮 Rosepen Studios
 
-Welcome to **Rosepen Studios** – where creativity meets innovation in gaming and open source solutions!
-
-## 🌟 About Us
-
-Rosepen Studios is a dynamic company dedicated to creating engaging games and developing cutting-edge open source applications and solutions. We believe in the power of community-driven development and strive to deliver high-quality experiences that inspire and entertain.
-
-## 🎯 What We Do
-
-### 🎮 Game Design & Development
-We craft immersive gaming experiences that blend compelling storytelling, innovative gameplay mechanics, and stunning visuals. Our games span multiple genres and platforms, aiming to bring joy and excitement to players worldwide.
-
-### 💻 Open Source Solutions
-We're passionate about contributing to the open source community. Our projects focus on:
-- **Developer Tools** – Utilities and frameworks that enhance productivity
-- **Creative Applications** – Tools for artists, designers, and content creators
-- **Community Solutions** – Projects that solve real-world problems
+Our story starts with a question: «Why does the main motivating factor in building software have to be money?» The answear? Greed. We deticate ourselfs to fight the ever-growing trend of SaaS (Software as a Service) by creating Open Source software and libraries, that are free for everyone and in addition anyone can partake in their development.
 
 ## 🚀 Our Projects
 
 Explore our repositories to discover:
-- 🎲 **Game Titles** – From casual mobile games to immersive experiences
-- 🛠️ **Tools & Libraries** – Reusable components for developers
-- 📚 **Resources & Templates** – Starter kits and best practices
-- 🌐 **Community Projects** – Collaborations with fellow developers
+- 🎯 **Tasker** – A minimalistic productivity app build with Godot
+- 🌹 **Rose Garden** – A modern UI library, bild to fit any usecase
+
 
 ## 🤝 Get Involved
 
-We welcome contributions from developers, designers, artists, and gaming enthusiasts! Whether you want to:
+We welcome contributions from developers, designers and artists! Whether you want to:
 - Report bugs and suggest features
 - Contribute code or artwork
 - Share ideas and feedback
@@ -43,7 +27,7 @@ Check out our repositories and join us in building something amazing!
 
 ## 📜 License
 
-Our open source projects are released under various licenses. Please check individual repositories for specific licensing information.
+Our open source projects are released under FUL (Free Use License), a license we developed to be able to distibute our projects without people being able to take advantage of our work.
 
 ---
 
