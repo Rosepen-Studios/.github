@@ -1,6 +1,6 @@
 # 🎮 Rosepen Studios
 
-Our story starts with a question: «Why does the main motivating factor in building software have to be money?» The answear? Greed. We deticate ourselfs to fight the ever-growing trend of SaaS (Software as a Service) by creating Open Source software and libraries, that are free for everyone and in addition anyone can partake in their development.
+Our story starts with a question: «Why does the main motivating factor in building software have to be money?» The answear? Greed. We deticate ourselfs to fight the ever-growing trend of SaaS (Software as a Service) by creating Open Source software and libraries, that are free for everyone, in addition anyone can partake in their development.
 
 ## 🚀 Our Projects
 
