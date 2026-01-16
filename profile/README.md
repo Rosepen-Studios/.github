@@ -6,7 +6,7 @@ Our story starts with a question: «Why does the main motivating factor in build
 
 Explore our repositories to discover:
 - 🎯 **Tasker** – A minimalistic productivity app build with Godot
-- 🌹 **Rose Garden** – A modern UI library, bild to fit any usecase
+- 🌹 **Rose Garden** – A modern UI library, built to fit any usecase
 
 
 ## 🤝 Get Involved
